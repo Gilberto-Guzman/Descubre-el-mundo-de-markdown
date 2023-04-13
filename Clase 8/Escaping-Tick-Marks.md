@@ -4,5 +4,5 @@
 
 
 <!-- Marcas de backticks en HTML -->
-<!-- Nota: Es posible que no puedas visualizar correctamente el codigo de HTML en tu Markdown: Open Psreview -->
+<!-- Nota: Es posible que no puedas visualizar correctamente el codigo de HTML en tu Markdown: Open Preview -->
 <code>Guarda tus `archivos` de vscode</code>
