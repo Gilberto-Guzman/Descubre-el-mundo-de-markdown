@@ -18,8 +18,9 @@ En este curso, te guiaré paso a paso a través del increíble poder de Markdown
 - Código: https://github.com/Gilberto-Guzman/Markdown-Crash-Course
 - Presentación: https://docs.google.com/presentation/d/1w4JW2kBAsklpuqx6HOW17nN-9rHcXnLbf-2TmkeREYg/edit?usp=sharing
 - Curso Completo:
-    Red por la Ciberseguridad ➡ facebook-link-pendiente
-    Universidad Autonoma de Chiapas ➡ https://www.youtube.com/watch?v=cb9705c3DqI
+
+    Red por la Ciberseguridad ➜ facebook-link-pendiente  
+    Universidad Autonoma de Chiapas ➜ https://www.youtube.com/watch?v=cb9705c3DqI
 
 ¡Te espero para empezar juntos este emocionante viaje en el mundo de Markdown! 💡💬
 
