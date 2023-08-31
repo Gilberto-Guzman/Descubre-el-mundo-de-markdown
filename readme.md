@@ -15,7 +15,7 @@ En este curso, te guiaré paso a paso a través del increíble poder de Markdown
 
 **Recursos:**
 
-- Código: https://github.com/Gilberto-Guzman/Descubre-el-mundo-de-markdown
+- Código: https://github.com/Gilberto-Guzman/Descubre-el-mundo-de-markdown  
 - Presentación: https://docs.google.com/presentation/d/1w4JW2kBAsklpuqx6HOW17nN-9rHcXnLbf-2TmkeREYg/edit?usp=sharing
 - Curso Completo:
 
